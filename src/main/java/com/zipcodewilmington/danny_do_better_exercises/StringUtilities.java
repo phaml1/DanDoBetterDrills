@@ -34,7 +34,7 @@ public class StringUtilities {
      * @return the first 3 characters of `input`
      */
     public static String getPrefix(String input){
-        return input.substring(1,3);
+        return input.substring(0,3);
     }
 
     /**
