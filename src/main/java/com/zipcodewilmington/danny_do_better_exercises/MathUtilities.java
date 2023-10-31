@@ -65,7 +65,7 @@ public class MathUtilities {
      * @return difference between `baseValue` and `difference`
      */
     public Integer subtract(int baseValue, int difference) {
-        return null;
+        return baseValue - difference;
     }
 
     /**
