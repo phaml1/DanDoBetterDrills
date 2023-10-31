@@ -19,7 +19,7 @@ public class PredicateUtilities {
      * @return true if `x` is less than `y`
      */
     public Boolean isLessThan(int x, int y) {
-        return null;
+        return x < y;
     }
 
     /**
